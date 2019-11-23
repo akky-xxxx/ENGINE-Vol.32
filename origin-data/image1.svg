@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="image1.svg"
+   inkscape:version="1.0beta1 (76ce730, 2019-10-19)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 211.66666 132.29167"
+   height="500"
+   width="800">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1053" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1050" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1032" />
+    </marker>
+    <inkscape:perspective
+       id="perspective1001"
+       inkscape:persp3d-origin="105.83333 : 44.097223 : 1"
+       inkscape:vp_z="211.66666 : 66.145835 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 66.145835 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1050-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1053-0"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-to-guides="false"
+     inkscape:snap-others="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:connector-spacing="8"
+     units="px"
+     inkscape:window-maximized="0"
+     inkscape:window-y="843"
+     inkscape:window-x="2013"
+     inkscape:window-height="1209"
+     inkscape:window-width="1605"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="600.45474"
+     inkscape:cx="1333.4523"
+     inkscape:zoom="0.43173427"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid10"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="レイヤー 1">
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/Users/shogo/Pictures/ink/a.png"
+       y="13.229171"
+       x="-8.8817842e-16"
+       height="105.83333"
+       width="52.916668"
+       id="rect20"
+       style="opacity:1;mix-blend-mode:normal;fill:#1976d2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.176782;stop-opacity:1" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/Users/shogo/Pictures/ink/a.png"
+       id="text898"
+       y="56.5509"
+       x="26.381165"
+       style="font-style:normal;font-weight:normal;font-size:9.87777999999999956px;line-height:1.25;font-family:sans-serif;opacity:1;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stop-opacity:1"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="56.5509"
+         x="26.381165"
+         id="tspan896"
+         sodipodi:role="line">frontend</tspan><tspan
+         id="tspan900"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="68.898125"
+         x="26.381165"
+         sodipodi:role="line">browser</tspan><tspan
+         id="tspan902"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="81.245346"
+         x="26.381165"
+         sodipodi:role="line">app</tspan></text>
+    <rect
+       style="opacity:1;mix-blend-mode:normal;fill:#1976d2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.176782;stop-opacity:1"
+       id="rect20-9"
+       width="52.916668"
+       height="105.83333"
+       x="79.375"
+       y="13.229167"
+       inkscape:export-filename="/Users/shogo/Pictures/ink/a.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/Users/shogo/Pictures/ink/a.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.87776999999999994px;line-height:1.25;font-family:sans-serif;opacity:1;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stop-opacity:1"
+       x="105.75616"
+       y="69.681183"
+       id="text898-4"><tspan
+         id="tspan937"
+         sodipodi:role="line"
+         x="105.75616"
+         y="69.681183"
+         style="font-size:9.87777px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">BFF</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/Users/shogo/Pictures/ink/a.png"
+       y="13.229171"
+       x="158.75"
+       height="105.83333"
+       width="52.916668"
+       id="rect20-9-0"
+       style="opacity:1;mix-blend-mode:normal;fill:#1976d2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.176782;stop-opacity:1" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/Users/shogo/Pictures/ink/a.png"
+       id="text898-4-7"
+       y="69.681183"
+       x="185.13116"
+       style="font-style:normal;font-weight:normal;font-size:9.87776999999999994px;line-height:1.25;font-family:sans-serif;opacity:1;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stop-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:9.87777px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="69.681183"
+         x="185.13116"
+         sodipodi:role="line"
+         id="tspan937-6">backend</tspan></text>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/Users/shogo/Pictures/ink/a.png"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path1030"
+       d="m 52.916668,66.145834 26.458332,-2e-6"
+       style="mix-blend-mode:normal;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend);" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/Users/shogo/Pictures/ink/a.png"
+       inkscape:connection-end="#rect20-9-0"
+       sodipodi:nodetypes="cc"
+       style="display:inline;mix-blend-mode:normal;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart-8);marker-end:url(#Arrow2Lend-2);"
+       d="m 132.29167,66.145832 26.45833,10e-7"
+       id="path1030-1"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

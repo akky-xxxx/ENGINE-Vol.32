@@ -1,0 +1,11 @@
+#Slide Number Setting
+slide-number: true
+
+#Footnote Setting
+footnote :  "© 2019 akky-xxxx"
+
+#Highlight Setting
+highlight : mono-blue
+
+#Transition Setting
+transition : fade
